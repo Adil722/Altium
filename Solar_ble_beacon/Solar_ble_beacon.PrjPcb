@@ -84,7 +84,7 @@ DocumentUniqueId=MTXSRGYR
 
 [Document3]
 DocumentPath=Solar ble beacon schematic.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -101,7 +101,7 @@ DocumentUniqueId=TJVGESLF
 
 [Document4]
 DocumentPath=Microcontroller.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -956,7 +956,7 @@ Type6=2
 Type7=0
 Type8=1
 Type9=1
-Type10=1
+Type10=0
 Type11=2
 Type12=2
 Type13=2
