@@ -100,13 +100,13 @@ GenerateClassCluster=0
 DocumentUniqueId=TJVGESLF
 
 [Document4]
-DocumentPath=Microcontroller.SchDoc
+DocumentPath=Microcontroller module.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=2
+AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -114,7 +114,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GBHRRYZI
+DocumentUniqueId=PHHZYWJI
 
 [Document5]
 DocumentPath=..\..\..\..\..\Downloads\nrf52840-qfaa-reference-layout-1_0.zip

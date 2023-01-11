@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=P0.07 Pin=IC1-21
+Added Pin To Net: NetName=P0.07 Pin=U1-6
+Added Net: Name=P0.07
+Added Pin To Net: NetName=P0.08 Pin=IC1-20
+Added Pin To Net: NetName=P0.08 Pin=U1-7
+Added Net: Name=P0.08
+Added Pin To Net: NetName=P1.08 Pin=IC1-19
+Added Pin To Net: NetName=P1.08 Pin=U1-8
+Added Net: Name=P1.08
+Added Room: Name=Battery mngmt
+Added Room: Name=Microcontroller
