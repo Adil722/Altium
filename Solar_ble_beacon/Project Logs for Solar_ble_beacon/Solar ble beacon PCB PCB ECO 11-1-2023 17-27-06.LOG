@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=P0.11 Pin=IC1-19
+Removed Pin From Net: NetName=P0.13 Pin=IC1-21
+Change Component Comment : Designator=P1 Old Comment=SRC New Comment=Solar panel
+Change Component Comment : Designator=P2 Old Comment=STORAGE New Comment=Supercap
+Added Pin To Net: NetName=P0.13 Pin=IC1-19
+Added Pin To Net: NetName=P0.11 Pin=IC1-21
+Added Room: Name=Battery mngmt
+Added Room: Name=Microcontroller module
