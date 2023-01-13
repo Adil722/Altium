@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=P1.00 Pin=IC1-20
+Removed Pin From Net: NetName=P0.11 Pin=IC1-21
+Added Component: Designator=J3(TAG-CONNECT_TC2050-IDC)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Tag-Connect LLC'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TC2050-IDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P0.11 Pin=IC1-20
+Added Pin To Net: NetName=HVOUT Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=P1.00 Pin=J3-6
+Added Pin To Net: NetName=GND Pin=J3-9
+Change Net Name : Old Net Name=HVOUT New Net Name=VDD
+Added Pin To Net: NetName=P0.10 Pin=IC1-21
+Added Pin To Net: NetName=P0.10 Pin=MD1-8
+Added Net: Name=P0.10
+Added Pin To Net: NetName=P0.18/RESET Pin=J3-10
+Added Pin To Net: NetName=P0.18/RESET Pin=MD1-14
+Added Net: Name=P0.18/RESET
+Added Pin To Net: NetName=SWDCLK Pin=J3-4
+Added Pin To Net: NetName=SWDCLK Pin=MD1-15
+Added Net: Name=SWDCLK
+Added Pin To Net: NetName=SWDIO Pin=J3-2
+Added Pin To Net: NetName=SWDIO Pin=MD1-16
+Added Net: Name=SWDIO
+Added Member To Class: ClassName=Microcontroller module Member=Component J3 TC2050-IDC
+Added Room: Name=Battery mngmt
+Added Room: Name=Microcontroller module

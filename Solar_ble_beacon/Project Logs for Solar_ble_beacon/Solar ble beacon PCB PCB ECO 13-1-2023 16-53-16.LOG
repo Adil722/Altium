@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=P1.00 Pin=IC1-20
+Removed Pin From Net: NetName=P0.11 Pin=IC1-21
+Added Component: Designator=J3(TAG-CONNECT_TC2050-IDC)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Tag-Connect LLC'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TC2050-IDC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P0.11 Pin=IC1-20
+Added Pin To Net: NetName=HVOUT Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-5
+Added Pin To Net: NetName=P1.00 Pin=J3-6
+Added Pin To Net: NetName=GND Pin=J3-9
+Change Net Name : Old Net Name=HVOUT New Net Name=VDD
+Added Pin To Net: NetName=P0.10 Pin=IC1-21
+Added Pin To Net: NetName=P0.10 Pin=MD1-8
+Added Net: Name=P0.10
+Added Pin To Net: NetName=P0.18/RESET Pin=J3-10
+Added Pin To Net: NetName=P0.18/RESET Pin=MD1-14
+Added Net: Name=P0.18/RESET
+Added Pin To Net: NetName=SWDCLK Pin=J3-4
+Added Pin To Net: NetName=SWDCLK Pin=MD1-15
+Added Net: Name=SWDCLK
+Added Pin To Net: NetName=SWDIO Pin=J3-2
+Added Pin To Net: NetName=SWDIO Pin=MD1-16
+Added Net: Name=SWDIO
+Added Member To Class: ClassName=Battery mngmt Member=Component C1 D
+Added Member To Class: ClassName=Battery mngmt Member=Component C2 GRM188R60J476ME15D
+Added Member To Class: ClassName=Battery mngmt Member=Component C3 GRM188R61A226ME15D
+Added Member To Class: ClassName=Battery mngmt Member=Component C4 C1608X5R1A106M080AC
+Added Member To Class: ClassName=Battery mngmt Member=Component C5 C1608X5R1A106M080AC
+Added Member To Class: ClassName=Battery mngmt Member=Component IC1 AEM10941-QFN
+Added Member To Class: ClassName=Microcontroller module Member=Component J1 I2C
+Added Member To Class: ClassName=Microcontroller module Member=Component J3 TC2050-IDC
+Added Member To Class: ClassName=Battery mngmt Member=Component L1 LPS4012-103MRB
+Added Member To Class: ClassName=Battery mngmt Member=Component L2 MLZ1608M100WT000
+Added Member To Class: ClassName=Battery mngmt Member=Component P1 Solar panel
+Added Member To Class: ClassName=Battery mngmt Member=Component P2 Supercap
+Added Member To Class: ClassName=Battery mngmt Member=Component R1 CRCW0805715KFKEA
+Added Member To Class: ClassName=Battery mngmt Member=Component R2 RC0805FR-0710KL
+Added Member To Class: ClassName=Battery mngmt Member=Component R3 CRCW080547K5FKEA
+Added Member To Class: ClassName=Battery mngmt Member=Component R4 CRCW0805220KFKEA
+Added Member To Class: ClassName=Battery mngmt Member=Component R5 CRCW0805698KFKEA
+Added Member To Class: ClassName=Battery mngmt Member=Component R6 CRCW0805300KFKEA
+Added Room: Name=Battery mngmt
+Added Room: Name=Microcontroller module
