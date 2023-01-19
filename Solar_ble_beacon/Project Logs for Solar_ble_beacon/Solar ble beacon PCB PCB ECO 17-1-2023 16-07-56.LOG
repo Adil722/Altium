@@ -1,0 +1,32 @@
+Added Component: Designator=TP1(Testpoint1)
+Added Component: Designator=TP2(Testpoint1)
+Added Component: Designator=TP3(Testpoint1)
+Added Component: Designator=TP4(Testpoint1)
+Added Component: Designator=TP5(Testpoint1)
+Added Component: Designator=TP6(Testpoint1)
+Added Component: Designator=TP7(Testpoint1)
+Added Component: Designator=TP8(Testpoint1)
+Added Component: Designator=TP9(Testpoint1)
+Added Component: Designator=TP10(Testpoint1)
+Add Pin To Net: Unknown Pin: Pin TP1-
+Add Pin To Net: Unknown Pin: Pin TP2-
+Add Pin To Net: Unknown Pin: Pin TP3-
+Add Pin To Net: Unknown Pin: Pin TP4-
+Add Pin To Net: Unknown Pin: Pin TP5-
+Add Pin To Net: Unknown Pin: Pin TP6-
+Add Pin To Net: Unknown Pin: Pin TP7-
+Add Pin To Net: Unknown Pin: Pin TP8-
+Add Pin To Net: Unknown Pin: Pin TP9-
+Add Pin To Net: Unknown Pin: Pin TP10-
+Added Member To Class: ClassName=Battery mngmt Member=Component TP1 testpoint
+Added Member To Class: ClassName=Battery mngmt Member=Component TP2 testpoint
+Added Member To Class: ClassName=Battery mngmt Member=Component TP3 testpoint
+Added Member To Class: ClassName=Battery mngmt Member=Component TP4 testpoint
+Added Member To Class: ClassName=Battery mngmt Member=Component TP5 testpoint
+Added Member To Class: ClassName=Battery mngmt Member=Component TP6 testpoint
+Added Member To Class: ClassName=Battery mngmt Member=Component TP7 testpoint
+Added Member To Class: ClassName=Battery mngmt Member=Component TP8 testpoint
+Added Member To Class: ClassName=Battery mngmt Member=Component TP9 testpoint
+Added Member To Class: ClassName=Battery mngmt Member=Component TP10 testpoint
+Added Room: Name=Battery mngmt
+Added Room: Name=Microcontroller module

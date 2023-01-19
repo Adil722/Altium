@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=R4-1
+Removed Pin From Net: NetName=NetIC1_22 Pin=R4-2
+Change Component Designator: OldDesignator=R1 NewDesignator=R4
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Added Component: Designator=R1(RESC2013X60X35LL10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RC0805FR-07715KL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=NetIC1_22 Pin=R1-2
+Added Room: Name=Battery mngmt
+Added Room: Name=Microcontroller module
