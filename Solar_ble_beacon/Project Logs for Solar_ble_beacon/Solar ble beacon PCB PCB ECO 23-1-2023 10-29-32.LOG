@@ -1,0 +1,28 @@
+Change Physical Footprint: Designator=BOOST Old Footprint=Test point New Footprint=Test point
+Change Physical Footprint: Designator=BUCK Old Footprint=Test point New Footprint=Test point
+Change Physical Footprint: Designator=C1 Old Footprint=FP-GRM188-0_2-IPC_C New Footprint=FP-GRM188-0_2-IPC_C
+Change Physical Footprint: Designator=C2 Old Footprint=FP-GRM188-0_2-IPC_B New Footprint=FP-GRM188-0_2-IPC_B
+Change Physical Footprint: Designator=C3 Old Footprint=FP-GRM188-0_2-IPC_C New Footprint=FP-GRM188-0_2-IPC_C
+Change Physical Footprint: Designator=C4 Old Footprint=FP-C1608-080-0_1-IPC_A New Footprint=FP-C1608-080-0_1-IPC_A
+Change Physical Footprint: Designator=C5 Old Footprint=FP-C1608-080-0_1-IPC_A New Footprint=FP-C1608-080-0_1-IPC_A
+Change Physical Footprint: Designator=C6 Old Footprint=FP-GRM188-0_2-IPC_C New Footprint=FP-GRM188-0_2-IPC_C
+Change Physical Footprint: Designator=IC1 Old Footprint=QFN50P500X500X90-29N-D New Footprint=QFN50P500X500X90-29N-D
+Change Physical Footprint: Designator=J1 Old Footprint=FP-M20-9990246-MFG New Footprint=FP-M20-9990246-MFG
+Change Physical Footprint: Designator=J3 Old Footprint=TAG-CONNECT_TC2050-IDC New Footprint=TAG-CONNECT_TC2050-IDC
+Change Physical Footprint: Designator=L1 Old Footprint=FP-LPS4012-MFG New Footprint=FP-LPS4012-MFG
+Change Physical Footprint: Designator=L2 Old Footprint=FP-MLZ1608-IPC_C New Footprint=FP-MLZ1608-IPC_C
+Change Physical Footprint: Designator=LVOUT Old Footprint=Test point New Footprint=Test point
+Change Physical Footprint: Designator=MD1 Old Footprint=FP-BT840X-MFG New Footprint=FP-BT840X-MFG
+Change Physical Footprint: Designator=P1 Old Footprint=HDR1X2 New Footprint=HDR1X2
+Change Physical Footprint: Designator=P2 Old Footprint=HDR1X2 New Footprint=HDR1X2
+Change Physical Footprint: Designator=R1 Old Footprint=FP-RT0805-MFG New Footprint=FP-RT0805-MFG
+Change Physical Footprint: Designator=R2 Old Footprint=FP-CRCW0805-e3-IPC_A New Footprint=FP-CRCW0805-e3-IPC_A
+Change Physical Footprint: Designator=R3 Old Footprint=RESC2013X60X35NL10T20 New Footprint=RESC2013X60X35NL10T20
+Change Physical Footprint: Designator=R5 Old Footprint=FP-AC0805-MFG New Footprint=FP-AC0805-MFG
+Change Physical Footprint: Designator=R6 Old Footprint=FP-CRCW0805-e3-MFG New Footprint=FP-CRCW0805-e3-MFG
+Change Physical Footprint: Designator=SRC Old Footprint=Test point New Footprint=Test point
+Change Physical Footprint: Designator=STATUS [0] Old Footprint=Test point New Footprint=Test point
+Change Physical Footprint: Designator=STATUS [1] Old Footprint=Test point New Footprint=Test point
+Change Physical Footprint: Designator=STATUS [2] Old Footprint=Test point New Footprint=Test point
+Change Physical Footprint: Designator=STORAGE Old Footprint=Test point New Footprint=Test point
+Change Physical Footprint: Designator=VDD Old Footprint=Test point New Footprint=Test point
